@@ -1,0 +1,10 @@
+.main{
+  display: flex;
+
+}
+
+.main > div{
+  background-color:black;
+  font-size: 30px;
+
+}
