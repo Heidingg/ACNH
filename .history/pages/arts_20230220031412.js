@@ -28,7 +28,7 @@ export default function Home() {
                 <div className={styles.Art} key={index}>
                   <img src={rec.Image} className={styles.Image}/>
                   <p>  {rec.Name} </p>
-                  <a>{rec.Artist}</a>
+                  <div>{rec.Artist}</div>
                 </div>
                 
               )
