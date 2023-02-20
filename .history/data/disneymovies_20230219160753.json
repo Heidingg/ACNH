@@ -1,0 +1,355 @@
+[
+  {
+    "movie_image": "",
+    "movie_title": "Snow White and the Seven Dwarfs",
+    "release_date": "1937-12-21",
+    "genre": "Musical",
+    "mpaa_rating": "G",
+    "total_gross": 184925485,
+    "inflation_adjusted_gross": 5228953251
+  },
+  {
+    "movie_title": "Pinocchio",
+    "release_date": "1940-02-09",
+    "genre": "Adventure",
+    "mpaa_rating": "G",
+    "total_gross": 84300000,
+    "inflation_adjusted_gross": 2188229052
+  },
+  {
+    "movie_title": "Fantasia",
+    "release_date": "1940-11-13",
+    "genre": "Musical",
+    "mpaa_rating": "G",
+    "total_gross": 83320000,
+    "inflation_adjusted_gross": 2187090808
+  },
+  {
+    "movie_title": "Song of the South",
+    "release_date": "1946-11-12",
+    "genre": "Adventure",
+    "mpaa_rating": "G",
+    "total_gross": 65000000,
+    "inflation_adjusted_gross": 1078510579
+  },
+  {
+    "movie_title": "Cinderella",
+    "release_date": "1950-02-15",
+    "genre": "Drama",
+    "mpaa_rating": "G",
+    "total_gross": 85000000,
+    "inflation_adjusted_gross": 920608730
+  },
+  {
+    "movie_title": "20,000 Leagues Under the Sea",
+    "release_date": "1954-12-23",
+    "genre": "Adventure",
+    "mpaa_rating": "",
+    "total_gross": 28200000,
+    "inflation_adjusted_gross": 528279994
+  },
+  {
+    "movie_title": "Lady and the Tramp",
+    "release_date": "1955-06-22",
+    "genre": "Drama",
+    "mpaa_rating": "G",
+    "total_gross": 93600000,
+    "inflation_adjusted_gross": 1236035515
+  },
+  {
+    "movie_title": "Sleeping Beauty",
+    "release_date": "1959-01-29",
+    "genre": "Drama",
+    "mpaa_rating": "",
+    "total_gross": 9464608,
+    "inflation_adjusted_gross": 21505832
+  },
+  {
+    "movie_title": "101 Dalmatians",
+    "release_date": "1961-01-25",
+    "genre": "Comedy",
+    "mpaa_rating": "G",
+    "total_gross": 153000000,
+    "inflation_adjusted_gross": 1362870985
+  },
+  {
+    "movie_title": "The Absent Minded Professor",
+    "release_date": "1961-03-16",
+    "genre": "Comedy",
+    "mpaa_rating": "",
+    "total_gross": 25381407,
+    "inflation_adjusted_gross": 310094574
+  },
+  {
+    "movie_title": "Babes in Toyland",
+    "release_date": "1961-12-14",
+    "genre": "Musical",
+    "mpaa_rating": "G",
+    "total_gross": 10218316,
+    "inflation_adjusted_gross": 124841160
+  },
+  {
+    "movie_title": "Bon Voyage!",
+    "release_date": "1962-05-17",
+    "genre": "Comedy",
+    "mpaa_rating": "Not Rated",
+    "total_gross": 9230769,
+    "inflation_adjusted_gross": 109581646
+  },
+  {
+    "movie_title": "The Sword in the Stone",
+    "release_date": "1963-12-25",
+    "genre": "Adventure",
+    "mpaa_rating": "",
+    "total_gross": 22182353,
+    "inflation_adjusted_gross": 153870834
+  },
+  {
+    "movie_title": "The Jungle Book",
+    "release_date": "1967-10-18",
+    "genre": "Musical",
+    "mpaa_rating": "Not Rated",
+    "total_gross": 141843000,
+    "inflation_adjusted_gross": 789612346
+  },
+  {
+    "movie_title": "Blackbeard's Ghost",
+    "release_date": "1968-02-08",
+    "genre": "Comedy",
+    "mpaa_rating": "",
+    "total_gross": 21540050,
+    "inflation_adjusted_gross": 138612686
+  },
+  {
+    "movie_title": "The Aristocats",
+    "release_date": "1970-04-24",
+    "genre": "Musical",
+    "mpaa_rating": "G",
+    "total_gross": 55675257,
+    "inflation_adjusted_gross": 255161499
+  },
+  {
+    "movie_title": "The Boatniks",
+    "release_date": "1970-07-01",
+    "genre": "Comedy",
+    "mpaa_rating": "",
+    "total_gross": 18607492,
+    "inflation_adjusted_gross": 101200742
+  },
+  {
+    "movie_title": "Bedknobs and Broomsticks",
+    "release_date": "1971-10-07",
+    "genre": "Musical",
+    "mpaa_rating": "",
+    "total_gross": 17871174,
+    "inflation_adjusted_gross": 91305448
+  },
+  {
+    "movie_title": "The Apple Dumpling Gang",
+    "release_date": "1975-07-01",
+    "genre": "Comedy",
+    "mpaa_rating": "",
+    "total_gross": 31916500,
+    "inflation_adjusted_gross": 131246872
+  },
+  {
+    "movie_title": "Freaky Friday",
+    "release_date": "1977-01-21",
+    "genre": "Comedy",
+    "mpaa_rating": "",
+    "total_gross": 25942000,
+    "inflation_adjusted_gross": 98067733
+  },
+  {
+    "movie_title": "The Many Adventures of Winnie the Pooh",
+    "release_date": "1977-03-11",
+    "genre": "",
+    "mpaa_rating": "",
+    "total_gross": 0,
+    "inflation_adjusted_gross": 0
+  },
+  {
+    "movie_title": "The Rescuers",
+    "release_date": "1977-06-22",
+    "genre": "Adventure",
+    "mpaa_rating": "",
+    "total_gross": 48775599,
+    "inflation_adjusted_gross": 159743914
+  },
+  {
+    "movie_title": "Herbie Goes to Monte Carlo",
+    "release_date": "1977-06-24",
+    "genre": "",
+    "mpaa_rating": "",
+    "total_gross": 28000000,
+    "inflation_adjusted_gross": 105847527
+  },
+  {
+    "movie_title": "The Black Hole",
+    "release_date": "1979-12-21",
+    "genre": "",
+    "mpaa_rating": "",
+    "total_gross": 35841901,
+    "inflation_adjusted_gross": 120377374
+  },
+  {
+    "movie_title": "Midnight Madness",
+    "release_date": "1980-02-08",
+    "genre": "",
+    "mpaa_rating": "",
+    "total_gross": 2900000,
+    "inflation_adjusted_gross": 9088096
+  },
+  {
+    "movie_title": "The Last Flight of Noah’s Ark",
+    "release_date": "1980-06-25",
+    "genre": "",
+    "mpaa_rating": "",
+    "total_gross": 11000000,
+    "inflation_adjusted_gross": 34472116
+  },
+  {
+    "movie_title": "The Devil and Max Devlin",
+    "release_date": "1981-01-01",
+    "genre": "",
+    "mpaa_rating": "",
+    "total_gross": 16000000,
+    "inflation_adjusted_gross": 48517980
+  },
+  {
+    "movie_title": "Amy",
+    "release_date": "1981-03-20",
+    "genre": "Drama",
+    "mpaa_rating": "",
+    "total_gross": 0,
+    "inflation_adjusted_gross": 0
+  },
+  {
+    "movie_title": "The Fox and the Hound",
+    "release_date": "1981-07-10",
+    "genre": "Comedy",
+    "mpaa_rating": "",
+    "total_gross": 43899231,
+    "inflation_adjusted_gross": 133118889
+  },
+  {
+    "movie_title": "Condorman",
+    "release_date": "1981-08-07",
+    "genre": "Action",
+    "mpaa_rating": "",
+    "total_gross": 0,
+    "inflation_adjusted_gross": 0
+  },
+  {
+    "movie_title": "Night Crossing",
+    "release_date": "1982-02-05",
+    "genre": "Drama",
+    "mpaa_rating": "",
+    "total_gross": 4500000,
+    "inflation_adjusted_gross": 12903059
+  },
+  {
+    "movie_title": "Tron",
+    "release_date": "1982-07-09",
+    "genre": "Action",
+    "mpaa_rating": "",
+    "total_gross": 26918576,
+    "inflation_adjusted_gross": 77184895
+  },
+  {
+    "movie_title": "Tex",
+    "release_date": "1982-11-19",
+    "genre": "Drama",
+    "mpaa_rating": "",
+    "total_gross": 7199408,
+    "inflation_adjusted_gross": 20643199
+  },
+  {
+    "movie_title": "Trenchcoat",
+    "release_date": "1983-03-11",
+    "genre": "Comedy",
+    "mpaa_rating": "",
+    "total_gross": 4304286,
+    "inflation_adjusted_gross": 11519089
+  },
+  {
+    "movie_title": "Something Wicked This Way Comes",
+    "release_date": "1983-04-29",
+    "genre": "Horror",
+    "mpaa_rating": "",
+    "total_gross": 5656087,
+    "inflation_adjusted_gross": 15136765
+  },
+  {
+    "movie_title": "Never Cry Wolf",
+    "release_date": "1983-10-07",
+    "genre": "Drama",
+    "mpaa_rating": "",
+    "total_gross": 27668764,
+    "inflation_adjusted_gross": 70669955
+  },
+  {
+    "movie_title": "Running Brave",
+    "release_date": "1983-11-04",
+    "genre": "Drama",
+    "mpaa_rating": "",
+    "total_gross": 1204595,
+    "inflation_adjusted_gross": 3223725
+  },
+  {
+    "movie_title": "Splash",
+    "release_date": "1984-03-09",
+    "genre": "Comedy",
+    "mpaa_rating": "PG",
+    "total_gross": 62599495,
+    "inflation_adjusted_gross": 157057661
+  },
+  {
+    "movie_title": "Country",
+    "release_date": "1984-09-29",
+    "genre": "Drama",
+    "mpaa_rating": "",
+    "total_gross": 8400000,
+    "inflation_adjusted_gross": 21075000
+  },
+  {
+    "movie_title": "Baby: Secret of the Lost Legend",
+    "release_date": "1985-03-22",
+    "genre": "Adventure",
+    "mpaa_rating": "",
+    "total_gross": 14276095,
+    "inflation_adjusted_gross": 33900697
+  },
+  {
+    "movie_title": "Return to Oz",
+    "release_date": "1985-06-21",
+    "genre": "Adventure",
+    "mpaa_rating": "",
+    "total_gross": 10618813,
+    "inflation_adjusted_gross": 25215934
+  },
+  {
+    "movie_title": "The Black Cauldron",
+    "release_date": "1985-07-24",
+    "genre": "Adventure",
+    "mpaa_rating": "",
+    "total_gross": 21288692,
+    "inflation_adjusted_gross": 50553142
+  },
+  {
+    "movie_title": "My Science Project",
+    "release_date": "1985-08-09",
+    "genre": "Comedy",
+    "mpaa_rating": "",
+    "total_gross": 4100000,
+    "inflation_adjusted_gross": 9736051
+  },
+  {
+    "movie_title": "The Journey of Natty Gann",
+    "release_date": "1985-09-27",
+    "genre": "Drama",
+    "mpaa_rating": "",
+    "total_gross": 9468512,
+    "inflation_adjusted_gross": 22302956
+  }
+]

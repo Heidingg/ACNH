@@ -22,7 +22,7 @@ export default function Home() {
             record.map( (rec, index) => {
               return(
                 <div key={index}>
-                  <img src={rec.Image} className={styles.Image}/>
+                  <div>{rec.Image}</div>
                   <div>{rec.Name}</div>
                   <div>{rec.Category}</div>
                   <div>{rec.Artist}</div>
