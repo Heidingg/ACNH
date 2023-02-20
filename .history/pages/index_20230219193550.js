@@ -9,8 +9,6 @@ import Router, { useRouter } from 'next/router';
 
 export default function Home(){
 
-  const r = useRouter();
-
   return (
     <>
       <Head>
@@ -24,12 +22,9 @@ export default function Home(){
       <div className={styles.header}>
         <h1>Welcome to Museum in Animal Crossing </h1>
         </div>
-        <button 
-                className={styles.customBtn}
-                onClick={
-                  ()=>r.push("/arts")}
-
-              >See Museum Arts</button>
+        <div className={styles.museum} >
+          <Link href="/arts"></Link>
+        </div>
       </main>
     </>
   );

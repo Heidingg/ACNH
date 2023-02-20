@@ -10,6 +10,22 @@ import Router, { useRouter } from 'next/router';
 export default function Home(){
 
   const r = useRouter();
+// Create a style element
+const style = document.createElement('style');
+document.head.appendChild(style);
+
+// Define the @font-face rule for your custom font
+const fontFace = `@font-face {
+  font-family: 'CustomFont';
+  src: url('path/to/your/FinkHeavy.ttf') format('truetype');
+}`;
+
+// Add the @font-face rule to the style element
+style.appendChild(document.createTextNode(fontFace));
+
+// Apply the custom font to an element
+const element = document.getElementById('your-element-id');
+element.style.fontFamily = 'CustomFont';
 
   return (
     <>

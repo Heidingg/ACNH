@@ -9,8 +9,6 @@ import Router, { useRouter } from 'next/router';
 
 export default function Home(){
 
-  const r = useRouter();
-
   return (
     <>
       <Head>
@@ -29,7 +27,7 @@ export default function Home(){
                 onClick={
                   ()=>r.push("/arts")}
 
-              >See Museum Arts</button>
+              >See Musuem Arts</button>
       </main>
     </>
   );

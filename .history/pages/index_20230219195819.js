@@ -5,12 +5,23 @@ import styles from '../styles/Home.module.css'
 import record from '../data/arts.json'
 import { useState, useEffect } from 'react';
 import Router, { useRouter } from 'next/router';
+import React from 'react'
 
+function MyComponent() {
+  const [fontLoaded, setFontLoaded] = useState(false);
+}
 
 export default function Home(){
+  
 
   const r = useRouter();
-
+  React.useEffect(() => {
+    const font = new FontFace('CustomFont', 'url(path/to/your/FinkHeavy.ttf)');
+    font.load().then(() => {
+      document.fonts.add(font);
+      setFontLoaded(true);
+    });
+  }, []);
   return (
     <>
       <Head>
@@ -21,9 +32,9 @@ export default function Home(){
       </Head>
 
       <main className={styles.main} id ="museum">
-      <div className={styles.header}>
-        <h1>Welcome to Museum in Animal Crossing </h1>
-        </div>
+      <div style={{ fontFamily: FinkHeavy ? 'CustomFont' : 'sans-serif' }}>
+      <p>Welcome to Museum in Animal Crossing</p>
+    </div>
         <button 
                 className={styles.customBtn}
                 onClick={

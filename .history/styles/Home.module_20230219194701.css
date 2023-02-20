@@ -9,3 +9,7 @@
     grid-gap:20px;
   /*   overflow-x:scroll; */
   }
+  
+  .main museum {
+    background-image: url('/public/bg.jpeg');
+  }

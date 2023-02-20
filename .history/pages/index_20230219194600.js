@@ -2,6 +2,7 @@ import Head from 'next/head'
 import Image from 'next/image'
 import Link from 'next/link'
 import styles from '../styles/Home.module.css'
+import styles from '../styles/globals.css'
 import record from '../data/arts.json'
 import { useState, useEffect } from 'react';
 import Router, { useRouter } from 'next/router';
