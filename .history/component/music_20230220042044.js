@@ -1,0 +1,32 @@
+import { useState, useEffect } from 'react';
+import useSound from 'use-sound';
+export default function Sound() {
+    const [isChecked, setIsChecked] = useState(
+      false
+    );
+  
+    const [playActive] = useSound(
+        '/music/musicbg.mp3',
+      { volume: 0.25 }
+    );
+    const [playOn] = useSound(
+        '/music/musicbg.mp3',
+      { volume: 0.25 }
+    );
+    const [playOff] = useSound(
+        '/music/musicbg.mp3',
+      { volume: 0 }
+    );
+  
+    return (
+      <input
+      type="checkbox"
+        name="demo-checkbox"
+        checked={isChecked}
+        size={24}
+        label="I agree to self-isolate"
+        onChange={() => setIsChecked(!isChecked)}
+        />
+      
+    );
+  }
