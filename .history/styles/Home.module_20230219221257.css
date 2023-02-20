@@ -1,0 +1,39 @@
+  .body{
+    background:lightgray;
+  }
+  .container{
+    width:90%;
+    margin:auto;
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(200px,1fr));
+    grid-gap:20px;
+  /*   overflow-x:scroll; */
+  }
+
+  .blathers{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  }
+
+  .main{
+    max-width: 80%;
+    margin: 0 auto;
+  }
+.Image{
+  width: 200px;
+  border: 1px solid black;
+}
+
+.Art{
+  background-color: white;
+  border: 1px solid bisque;
+width: 220px;
+display: grid;
+justify-content: center;
+padding: 10px;
+}
+.Art p {
+  text-align: center;
+}

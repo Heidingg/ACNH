@@ -1,0 +1,30 @@
+  .body{
+    background:lightgray;
+  }
+  .container{
+    width:90%;
+    margin:auto;
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(200px,1fr));
+    grid-gap:20px;
+  /*   overflow-x:scroll; */
+  }
+
+  .blathers{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  }
+
+  .main{
+    max-width: 80%;
+    margin: 0 auto;
+  }
+  
+
+.Art{
+  background-color: white;
+  border: 1px solid bisque;
+width: 150px;
+}
